@@ -112,7 +112,6 @@ os.environ["HF_TOKEN"] = "your-huggingface-token-here"
 os.environ["GROQ_API_KEY"] = "your-groq-api-key-here"
 ```
 
-Do **not upload real keys to GitHub**.
 
 ---
 
